@@ -1,0 +1,35 @@
+html{
+    height: 100%;
+}
+html{
+    background: radial-gradient(rgb(39, 39, 51), rgb(12, 12, 15)) no-repeat;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+p{
+    color: rgb(209, 248, 255);
+    background-color: rgba(0, 0, 0, 0.1);
+
+}
+hr{
+    border-style:solid;
+    color:black;
+}
+ul{
+    background: linear-gradient(white, rgb(166, 202, 255));
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+ol{
+    background: linear-gradient(white, rgb(166, 202, 255));
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+p#citata{
+    color: rgb(255, 0, 0);
+}
+q{
+    color:rgb(0, 247, 255);
+}
